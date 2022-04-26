@@ -1,0 +1,4 @@
+.cardsWrapper{
+  display: flex;
+  transition: all ease 500ms;
+}

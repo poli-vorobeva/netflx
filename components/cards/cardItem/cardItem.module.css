@@ -1,0 +1,13 @@
+.cardItem{
+ border-radius: 20px;
+  position: relative;
+  transition: all ease 500ms;
+  z-index: 1;
+}
+.cardItem img{
+  border-radius: 20px;
+}
+.cardItem:hover{
+  transform: scale(1.1);
+  z-index: 5;
+}
